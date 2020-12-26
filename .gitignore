@@ -1,4 +1,4 @@
 volumes
 infra
-**/node_modules
+node_modules
 data
